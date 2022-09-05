@@ -10,7 +10,7 @@ public class Main {
      }
 
      public static void homeWork1() {
-          System.out.println("Задание 1");
+          System.out.println("Задание1");
           var clientOS = 0;
           if (clientOS == 0) {
                System.out.println("«Установите версию приложения для iOS по ссылке».");
