@@ -42,7 +42,7 @@ public class Main {
      }
 
      public static void homeWork3() {
-          System.out.println("Задание3");
+          System.out.println("Задание 3");
           int year = 2012;
           boolean visYear = ((year % 4 == 0) && (year % 100 != 0)) || year % 400 == 0;
           if (visYear) {
